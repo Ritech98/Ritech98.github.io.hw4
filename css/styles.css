@@ -210,7 +210,6 @@ ul {
   cursor: pointer;
 }
 
-.main-b:hover,
 .main-b:focus {
   background-color: var(--ad-color);
   color: var(--highlight);
@@ -331,7 +330,6 @@ ul {
   display: block;
   border-radius: 50%;
   color: #afb1b8;
-  background-color: #f5f4fa;
 }
 
 .team-socmedia-link:hover,
